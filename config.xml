@@ -5,14 +5,14 @@
         id        = "com.venidera.natshields"
         versionCode = "387"
         version   = "1.13">
-    <name>Natural Shields R&D</name>
+    <name>Natural Shields R&amp;D</name>
 
     <description>
-        PPTE - Natural Shields R&D
+        PPTE - Natural Shields R&amp;D
     </description>
 
     <author href="http://ppte.venidera.com" email="contato@venidera.com">
-        Venidera R&D
+        Venidera R&amp;D
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
